@@ -1,6 +1,6 @@
 # Animated-Vision
 
-This is a stylish, animated landing page concept inspired by Rayban's premium product showcase. Built using HTML, CSS, GSAP, and Shery.js, it features smooth animations, layered backgrounds, and modern UI.
+This is a stylish, animated landing page concept inspired by Rayban's showcase. Built using HTML, CSS, GSAP, and Shery.js, it features smooth animations, layered backgrounds, and modern UI.
 
 ## 🚀 Features
 
